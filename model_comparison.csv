@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,Missed sick patients (FN),False alarms (FP),CV accuracy,CV precision,CV recall,CV f1,CV f2,CV roc_auc,CV accuracy std,CV recall std
+Logistic Regression,0.804,0.806,0.853,0.829,0.906,15,21,0.798,0.808,0.837,0.822,0.831,0.871,0.036,0.019
+Random Forest,0.804,0.806,0.853,0.829,0.891,15,21,0.797,0.801,0.847,0.823,0.837,0.867,0.051,0.032
+XGBoost,0.815,0.809,0.873,0.84,0.89,13,21,0.785,0.795,0.828,0.811,0.82,0.863,0.044,0.016
