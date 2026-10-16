@@ -35,7 +35,7 @@ heart-disease-prediction-system/
 ├── README.md
 ├── model.ipynb
 ├── heart.xls
-├── app.py
+├── streamlit_app.py
 ├── app(1).ipynb
 │
 └── results/
